@@ -96,7 +96,7 @@ public classFirstClass {
 }
 ```
 Чтобы создать экземпляр **FirstClass**, мы используем этот оператор
-Первый класс f=новый первый класс();
+FirstClass f=new FirstClass();
 f используется для ссылки на объект FirstClass.
 
 
